@@ -1,0 +1,10 @@
+# Function test
+kaam jama a b {
+    bol a + b
+}
+
+rakho x = 10
+rakho y = 20
+
+jama x y
+jama 50 50

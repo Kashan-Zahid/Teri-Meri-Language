@@ -1,0 +1,6 @@
+# Urdulang Professional Script
+rakho x = 1
+jab_tak x <= 999 {
+    bol x
+    rakho x = x +0
+
